@@ -1,1 +1,2 @@
 file2 is new
+I added a sentence
